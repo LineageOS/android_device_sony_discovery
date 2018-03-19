@@ -14,6 +14,10 @@
 # limitations under the License.
 #
 
+# Camera
+PRODUCT_PROPERTY_OVERRIDES += \
+    vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,org.lineageos.snap
+
 # SEMC
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.semc.product.model=H3213 \
