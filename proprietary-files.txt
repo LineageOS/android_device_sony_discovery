@@ -120,7 +120,7 @@ vendor/lib/libmmcamera_imx234.so
 vendor/lib/libmmcamera_imx300.so
 
 # QNS
-vendor/bin/qns_22
+vendor/bin/qns_22:vendor/bin/qns
 
 # WiFi
 vendor/etc/wifi/bdwlan22.bin
