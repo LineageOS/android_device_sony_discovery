@@ -16,3 +16,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_discovery.mk
+
+COMMON_LUNCH_CHOICES := \
+    lineage_discovery-user \
+    lineage_discovery-userdebug \
+    lineage_discovery-eng
