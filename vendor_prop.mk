@@ -16,11 +16,7 @@
 
 # SEMC
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.semc.content.number=PA5 \
-    ro.semc.ms_type_id=PM-1093-BV \
-    ro.semc.product.device=H32 \
     ro.semc.product.model=H3213 \
-    ro.semc.product.name=Xperia XA2 Ultra \
     ro.semc.version.fs=GENERIC \
     ro.semc.version.fs_revision=50.1.A.4.102 \
     ro.semc.version.sw=1311-2927 \
