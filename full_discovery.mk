@@ -25,5 +25,5 @@ $(call inherit-product, device/sony/discovery/device.mk)
 PRODUCT_NAME := full_discovery
 PRODUCT_DEVICE := discovery
 PRODUCT_BRAND := Sony
-PRODUCT_MODEL := Xperia XA2
+PRODUCT_MODEL := Xperia XA2 Ultra
 PRODUCT_MANUFACTURER := Sony
