@@ -28,5 +28,8 @@ TARGET_KERNEL_CONFIG := discovery_defconfig
 # MAC address setup
 BOARD_HAS_MIRROR_MACADDRESS := true
 
+# Properties
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
+
 # inherit from the proprietary version
 -include vendor/sony/discovery/BoardConfigVendor.mk
