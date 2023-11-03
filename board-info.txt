@@ -1,1 +1,1 @@
-require board=H3213|H4213|H4233|H3223
+require board=discovery|H3213|H4213|H4233|H3223
